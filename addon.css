@@ -40,10 +40,11 @@ h1 {
 #message {
   display: inline-block;
   width: 20%;
+  color : white;
 }
 
 #stripe {
-  background: white;
+  background:rgb(20, 20, 20);
   height: 30px;
   text-align: center;
   color: black;
